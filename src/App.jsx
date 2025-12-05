@@ -5,7 +5,7 @@ import Services from './components/Services';
 import Footer from './components/Footer';
 import Contact from './components/Contact';
 import About from './components/About';
-import Cta from './components/cta';
+import Cta from './components/Cta';
 import ProjectsPage from './components/ProjectsPage';
 import Team from './components/Team';
 
