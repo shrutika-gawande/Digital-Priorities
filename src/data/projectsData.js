@@ -12,10 +12,10 @@ export const projects = [
       "This project is a complete e-commerce solution with advanced product management, shopping cart, secure authentication, and Stripe payment integration for seamless checkout experience.",
     tech: ["React", "Node.js", "Express", "MongoDB", "Stripe"],
     image:
-      "src/assets/ecommerce1.png",
+      "/assets/projects/ecommerce1.png",
     images: [
-      "src/assets/ecommerce2.png",
-      "src/assets/ecommerce3.png",
+      "/assets/projects/ecommerce2.png",
+      "/assets/projects/ecommerce3.png",
     ],
     liveDemo: "https://ecommercesite-pink-pi.vercel.app/",
   },
@@ -30,10 +30,10 @@ export const projects = [
       "A modern corporate website built with a dynamic CMS to allow non-technical users to update content easily. The website is fully responsive and optimized for performance and SEO.",
     tech: ["WordPress", "JavaScript", "PHP", "MySQL"],
     image:
-      "src/assets/Corporate1.jpg",
+      "/assets/projects/Corporate1.jpg",
     images: [
-      "src/assets/Corporate2.jpg",
-      "src/assets/Corporate3.jpg",
+      "/assets/projects/Corporate2.jpg",
+      "/assets/projects/Corporate3.jpg",
     ],
     liveDemo: "https://digitalpriorities.vercel.app/#",
   },
@@ -48,10 +48,10 @@ export const projects = [
       "A scalable SaaS platform featuring role-based authentication, subscription billing, real-time analytics dashboard, and cloud deployment with AWS.",
     tech: ["Vue.js", "Laravel", "MySQL", "Redis", "AWS"],
     image:
-      "src/assets/SaaS3.jpg",
+      "/assets/projects//SaaS3.jpg",
     images: [
-      "src/assets/SaaS2.jpg",
-      "src/assets/SaaS1.jpg",
+      "/assets/projects//SaaS2.jpg",
+      "/assets/projects/SaaS1.jpg",
     ],
     liveDemo: "https://digitalpriorities.vercel.app/#",
   },

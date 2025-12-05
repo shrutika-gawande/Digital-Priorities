@@ -5,7 +5,7 @@ export const team = [
     tag: "Lead",
     desc: "Digital marketing expert in social media strategy & brand growth",
     mage: "NG",
-    image: "./src/assets/team/nakul.jpg", 
+    image: "/assets/team/nakul.jpg", 
     social: { linkedin: "", github: "", twitter: "" },
   },
   {
