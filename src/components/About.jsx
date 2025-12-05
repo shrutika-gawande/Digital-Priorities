@@ -14,7 +14,7 @@ export default function AboutUsPreview() {
 
       {/* HERO SECTION */}
       <motion.section
-        className="container mx-auto px-6 py-20 text-center"
+        className="container mx-auto px-6 md:py-20 py-10 text-center"
         {...fadeUp}
       >
         <h1 className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-indigo-800 to-cyan-500 bg-clip-text text-transparent">
@@ -45,7 +45,7 @@ export default function AboutUsPreview() {
 
           {/* RIGHT CARD */}
           <motion.div
-            className="rounded-3xl p-8 w-30 shadow-xl border bg-gradient-to-t from-purple-300 to-purple-50"
+            className="hidden sm:block rounded-3xl p-8 w-30 shadow-xl border bg-gradient-to-t from-purple-300 to-purple-50"
             {...fadeUp}
           >
             <h3 className="text-xl font-semibold mb-4 text-indigo-900">

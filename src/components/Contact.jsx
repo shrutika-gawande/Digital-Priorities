@@ -13,7 +13,7 @@ export default function Contact() {
     <div id="contact" className="text-gray-900 min-h-screen">
 
       {/* Header */}
-      <section className="text-left py-20 px-6 max-w-7xl mx-auto">
+      <section className="text-left py-10 sm:py-20 px-6 max-w-7xl mx-auto">
         <motion.div
           className="contact-header-expanded text-center"
           {...fadeUp}

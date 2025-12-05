@@ -14,7 +14,7 @@ export default function TeamMembersPage() {
           viewport={{ once: true }}
           className="text-center mb-14"
         >
-          <h1 className="text-2xl bg-gradient-to-r from-indigo-700 to-cyan-500 bg-clip-text text-transparent md:text-4xl font-bold mb-4">
+          <h1 className="text-3xl bg-gradient-to-r from-indigo-700 to-cyan-500 bg-clip-text text-transparent md:text-4xl font-bold mb-4">
             Meet Our Team
           </h1>
           <p className="text-gray-600 max-w-2xl mx-auto">

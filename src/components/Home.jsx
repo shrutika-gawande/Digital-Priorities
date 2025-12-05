@@ -8,7 +8,7 @@ const fadeUp = {
 
 export default function Home() {
   return (
-    <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#d2d8ed] via-[#eef1f7] to-[#c0cff6] px-6">
+    <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#d2d8ed] via-[#eef1f7] to-[#c0cff6] py-20 md:py-0 px-6">
       <div className="max-w-6xl text-center flex flex-col items-center gap-8">
 
         {/* HEADING */}
