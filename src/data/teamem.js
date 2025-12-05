@@ -1,0 +1,35 @@
+export const team = [
+  {
+    name: "Nakul Gawande",
+    role: "Founder & CMO",
+    tag: "Lead",
+    desc: "Digital marketing expert in social media strategy & brand growth",
+    mage: "NG",
+    image: "./src/assets/team/nakul.jpg", 
+    social: { linkedin: "", github: "", twitter: "" },
+  },
+  {
+    name: "Abhay Awachar",
+    role: "Co-Founder",
+    desc: "Full-stack developer with 2+ years of experience. Leads technical strategy.",
+    mage: "AA",
+    image: "",
+    social: { linkedin: "", github: "", twitter: "" },
+  },
+  {
+    name: "Aditya Admane",
+    role: "CTO",
+    desc: "Full-stack developer skilled in the MERN stack applications.",
+    mage: "AA",
+    image: "",
+    social: { linkedin: "", github: "", twitter: "" },
+  },
+  {
+    name: "Aditya Yerokar",
+    role: "CEO",
+    desc: "Mobile app developer specializing in cross-platform applications.",
+    mage: "AY",
+    image: "",
+    social: { linkedin: "", github: "", twitter: "" },
+  },
+];
